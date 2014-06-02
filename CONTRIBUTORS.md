@@ -7,3 +7,4 @@ name/branchname
 PullRequestはPullRequestを送った人以外の人がマージに賛成したときに行う
 PullRequestへの賛成・反対はコメントに打ち込む（例：オッケー、++、反対の理由、などなど）
 PullRequestをマージ後はブランチを削除する
+test
