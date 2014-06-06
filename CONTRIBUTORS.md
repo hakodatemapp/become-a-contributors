@@ -32,6 +32,5 @@ Issueの作業が全て終わるコミットにはissueをクローズするた�
 name/branchname  
 の形式とする  
 先頭はユーザ名、単語はスラッシュ区切り  
-PullRequestはPullRequestを送った人以外の人がマージに賛成したときに行う  
 PullRequestへの賛成・反対はコメントに打ち込む（例：オッケー、++、反対の理由、などなど）  
-PullRequestをマージ後はブランチを削除する  
+PullRequestをマージ後はローカル・リモート共にブランチを削除する  
